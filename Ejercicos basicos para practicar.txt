@@ -1,0 +1,13 @@
+1) Crear un Hola Mundo en PHP:
+
+2) Crear una Calculadora básica
+
+3) Determinar si un número es par o impar
+
+4) Verificar si un número es primo
+
+5) Sumar los dígitos de un número
+
+6) Ordenar un array de 10 números de menor a mayor
+
+7) Crear una función que verifique si una palabra es un palíndromo
