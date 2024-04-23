@@ -1,4 +1,4 @@
-1) Crear un Hola Mundo en PHP:
+1) Crear un Hola Mundo en PHP
 
 2) Crear una Calculadora básica
 
